@@ -1,8 +1,11 @@
-# React + Vite
+# MoviesHub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Tech stacks -----> REACT, REDUX, SCSS
 
-Currently, two official plugins are available:
+- MoviesHub is the movies database application with easy maintainable and scalable folder structure.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fetch data from Rest API with axios and use Loading Skeleton while fetching data from API.
+
+- Create custom hooks, carousel without library and Infinite scrolling.
+
+- Responsive layout with perfectly placed media queries.
